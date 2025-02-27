@@ -3,7 +3,7 @@
 Bienvenue sur ma page ! Ici, vous trouverez une sélection de mes projets en enseignement.
 
 ### 🏛️ **Économie & Droit**  
-📌 **[Cours sur la formation des prix](https://lienversPDF.com)** – Supports et exercices sur l’offre, la demande et les mécanismes de marché.  
+📌 **[Cours d'introduction à l'économie](https://lienversPDF.com)** – Support et exercices pour le cours de première année en discipline fondamentale.
 📌 **[Le droit des personnes](https://lienversPDF.com)** – Études de cas interactives et fiches récapitulatives.  
 
 ### 📊 **Mathématiques appliquées**  
