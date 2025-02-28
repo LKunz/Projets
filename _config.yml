@@ -4,10 +4,6 @@ author: "Luc Kunz"
 email: "kunz.luc@pm.me"
 description: "Ressources pédagogiques, cours et projets en économie, droit et mathématiques."
 
-# --- 🌍 URL de ton site ---
-baseurl: "" # Si ton site est hébergé sous un sous-dossier (ex: /portfolio), ajoute-le ici
-url: "https://lkunz.github.io"
-
 # --- 🎨 Thème GitHub Pages ---
 remote_theme: pages-themes/slate@v0.2.0
 
