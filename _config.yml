@@ -7,10 +7,6 @@ description: "Ressources pédagogiques, cours et projets en économie, droit et 
 # --- 🎨 Thème GitHub Pages ---
 remote_theme: pages-themes/slate@v0.2.0
 
-# --- 🏷️ Métadonnées ---
-github_username: "tonpseudo"
-linkedin_username: "tonlinkedin"
-show_downloads: true
 
 # --- 📂 Organisation du contenu ---
 collections:
