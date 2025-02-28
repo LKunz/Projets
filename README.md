@@ -9,8 +9,9 @@ Bienvenue sur ma page ! Ici, vous trouverez une sélection de mes projets en ens
 📌 **[Jupyter Notebooks pour l’enseignement](https://lienversRepo.com)** – Cours interactifs pour introduire les statistiques et la modélisation.  
 
 ### 🎥 **Statistiques**  
-📌 **[Criminalité en Suisse : quel est l'impact de la région d'origine sur les taux de condamnation ?](https://github.com/LKunz/Projets/blob/main/Criminality.pdf)** – Analyse des taux de condamnation en Suisse selon l'origine des titulaires de permis B et C, en examinant les facteurs sociodémographiques influençant la criminalité à l’aide d’un modèle de régression à effets fixes.
+📌 **[Criminalité en Suisse : quel est l'impact de la région d'origine sur les taux de condamnation ?](https://github.com/LKunz/Projets/blob/main/Criminality.pdf)** – Analyse des taux de condamnation en Suisse selon l'origine des titulaires de permis B et C, en examinant les facteurs sociodémographiques influençant la criminalité à l’aide d’un modèle de régression à effets fixes.  
 📌 **[Modélisation de la température du Rhône](https://github.com/LKunz/Projets/blob/main/SARIMA_rhone.pdf)** – Prévision de la température moyenne mensuelle du Rhône à la station de Porte-du-Scex à l'aide de modèles SARIMA, en analysant tendances et saisonnalités pour sélectionner le modèle optimal et évaluer la dynamique thermique du fleuve. 
+  
 
 ## 🔗 Me contacter  
 📧 Email : [tonemail@example.com](mailto:tonemail@example.com)  
