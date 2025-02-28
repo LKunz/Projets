@@ -1,1 +1,41 @@
-remote_theme: pages-themes/dinky@v0.2.0
+# --- ⚙️ Configuration Générale ---
+title: "Portfolio | Enseignement & Projets"
+author: "Ton Nom"
+email: "ton.email@example.com"
+description: "Ressources pédagogiques, cours et projets en économie, droit et mathématiques."
+
+# --- 🌍 URL de ton site ---
+baseurl: "" # Si ton site est hébergé sous un sous-dossier (ex: /portfolio), ajoute-le ici
+url: "https://tonpseudo.github.io"
+
+# --- 🎨 Thème GitHub Pages ---
+remote_theme: pages-themes/cayman@v0.2.0
+
+# --- 🏷️ Métadonnées ---
+github_username: "tonpseudo"
+linkedin_username: "tonlinkedin"
+show_downloads: true
+
+# --- 📂 Organisation du contenu ---
+collections:
+  cours:
+    output: true
+    permalink: /cours/:name/
+  projets:
+    output: true
+    permalink: /projets/:name/
+
+# --- 📜 Navigation Personnalisée ---
+header_pages:
+  - index.md
+  - about.md
+  - cours.md
+  - projets.md
+  - contact.md
+
+# --- 🔧 Options supplémentaires ---
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
