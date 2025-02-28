@@ -15,6 +15,5 @@ Bienvenue sur ma page ! Vous y découvrirez une sélection de mes projets, notam
   
 
 ## 🔗 Me contacter  
-📧 Email : [tonemail@example.com](mailto:tonemail@example.com)  
-🔗 LinkedIn : [linkedin.com/in/tonprofil](https://linkedin.com/in/tonprofil)  
-🌐 Site perso : [tonsite.com](https://tonsite.com) 
+📧 Email : [kunz.luc@protonmail.com](mailto:kunz.luc@protonmail.com)  
+🔗 LinkedIn : [Luc Kunz](https://www.linkedin.com/in/luc-kunz)  
