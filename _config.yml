@@ -1,7 +1,7 @@
 # --- ⚙️ Configuration Générale ---
 title: "Portfolio | Enseignement & Projets"
 author: "Luc Kunz"
-email: "ton.email@example.com"
+email: "kunz.luc@pm.me"
 description: "Ressources pédagogiques, cours et projets en économie, droit et mathématiques."
 
 # --- 🌍 URL de ton site ---
@@ -9,7 +9,7 @@ baseurl: "" # Si ton site est hébergé sous un sous-dossier (ex: /portfolio), a
 url: "https://lkunz.github.io"
 
 # --- 🎨 Thème GitHub Pages ---
-remote_theme: pages-themes/modernist@v0.2.0
+remote_theme: pages-themes/slate@v0.2.0
 
 # --- 🏷️ Métadonnées ---
 github_username: "tonpseudo"
