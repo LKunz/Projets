@@ -1,7 +1,7 @@
-Bienvenue sur ma page ! Ici, vous trouverez une sélection de mes projets en enseignement.
+Bienvenue sur ma page ! Ici, vous trouverez une sélection de mes projets en enseignement. Bonne lecture !
 
 ### 🏛️ **Économie & Droit**  
-📌 **[Cours sur la formation des prix](https://lienversPDF.com)** – Supports et exercices sur l’offre, la demande et les mécanismes de marché.  
+📌 **[Cours d'introduction à l'économie (fil rouge : durabilité)](https://lienversPDF.com)** – Supports de cours et exercice d'un cours d'introduction à l'économie avec le développement durable comme fil rouge. Niveau : discipline fondamentale.
 📌 **[Le droit des personnes](https://lienversPDF.com)** – Études de cas interactives et fiches récapitulatives.  
 
 ### 📊 **Mathématiques**  
