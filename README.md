@@ -5,7 +5,7 @@
 - **[Le droit des personnes](https://lienversPDF.com)** – Études de cas interactives et fiches récapitulatives.  
 
 ### 📊 **Mathématiques**  
-- **[Modélisation des ventes avec Python](https://lienversRepo.com)** – Utilisation de modèles statistiques et de Machine Learning.  
+- **[Chaines Markov](https://lienversRepo.com)** – Utilisation de modèles statistiques et de Machine Learning.  
 - **[Jupyter Notebooks pour l’enseignement](https://lienversRepo.com)** – Cours interactifs pour introduire les statistiques et la modélisation.  
 
 
