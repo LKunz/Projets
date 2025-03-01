@@ -5,9 +5,7 @@
 - **[Exercices et études de cas en droit suisse](https://github.com/LKunz/Projets/tree/main/Droit)** - Mise en pratique du droit à travers des analyses et situations concrètes.  
 
 ### 📊 **Mathématiques**  
-- **[Chaines Markov](https://lienversRepo.com)** – Utilisation de modèles statistiques et de Machine Learning.  
-- **[Jupyter Notebooks pour l’enseignement](https://lienversRepo.com)** – Cours interactifs pour introduire les statistiques et la modélisation.  
-
+- **[Chaines de Markov](https://github.com/LKunz/Projets/tree/main/Math%C3%A9matiques)** – Divers codes permettant d'illustrer le fonctionnement des chaînes de Markov. 
 
 ### 📚 **Travaux scientifiques**  
 - **[Criminalité en Suisse : quel est l'impact de la région d'origine sur les taux de condamnation ?](https://github.com/LKunz/Projets/blob/main/Criminality.pdf)** – Analyse des taux de condamnation en Suisse selon l'origine des titulaires de permis B et C, en examinant les facteurs sociodémographiques influençant la criminalité à l’aide d’un modèle de régression à effets fixes.  
