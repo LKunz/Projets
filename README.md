@@ -1,7 +1,7 @@
 #### Bienvenue sur ma page ! Vous y découvrirez une sélection de mes projets, notamment en enseignement. Bonne exploration !
 
 ### 🏛️ **Économie & Droit**  
-- **[Cours d'introduction à l'économie (fil rouge : durabilité)](https://lienversPDF.com)** – Supports de cours et exercice d'un cours d'introduction à l'économie avec le développement durable comme fil rouge. Niveau : discipline fondamentale.  
+- **[Cours d'introduction à l'économie (fil rouge : durabilité)](https://lienversPDF.com)** – Supports de cours et exercices d'un cours d'introduction à l'économie avec le développement durable comme fil rouge. Niveau : discipline fondamentale.  
 - **[Le droit des personnes](https://lienversPDF.com)** – Études de cas interactives et fiches récapitulatives.  
 
 ### 📊 **Mathématiques**  
