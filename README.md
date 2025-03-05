@@ -8,7 +8,7 @@
 - **[Chaines de Markov](https://github.com/LKunz/Projets/tree/main/Math%C3%A9matiques)** – Divers codes permettant d'illustrer le fonctionnement des chaînes de Markov. 
 
 ### 📈 **Science des données**  
-- **[Extraits du cours en Science des données](https://github.com/LKunz/Projets/tree/main/Data%20Science)** – Dans le cadre d'un assistanat d’enseignement pour un cours du Master en Systèmes d'Information, j’ai créé des Jupyter Notebooks interactifs pour l'implémentation des méthodes d'exploration de données et des algorithmes d'apprentissage automatique.
+- **[Extraits du cours en Science des données](https://github.com/LKunz/Projets/tree/main/Data%20Science)** – Dans le cadre d'un assistanat d’enseignement pour un cours du Master en Systèmes d'Information, j’ai créé et présenté des Jupyter Notebooks interactifs pour l'implémentation des méthodes d'exploration de données et des algorithmes d'apprentissage automatique.
 
 
 ### 📚 **Travaux scientifiques**  
