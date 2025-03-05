@@ -4,10 +4,10 @@
 - **[Cours d'introduction à l'économie (fil rouge : durabilité)](https://lienversPDF.com)** – Supports de cours et exercices d'un cours d'introduction à l'économie avec le développement durable comme fil rouge. Niveau : discipline fondamentale.  
 - **[Exercices et études de cas en droit suisse](https://github.com/LKunz/Projets/tree/main/Droit)** - Mise en pratique du droit à travers des analyses et situations concrètes.  
 
-### 📊 **Mathématiques**  
+### Σ **Mathématiques**  
 - **[Chaines de Markov](https://github.com/LKunz/Projets/tree/main/Math%C3%A9matiques)** – Divers codes permettant d'illustrer le fonctionnement des chaînes de Markov. 
 
-### 📚 **Science des données**  
+### 📈 **Science des données**  
 - **[Extrait du cours en Science des données](https://github.com/LKunz/Projets/tree/main/Data%20Science)** – Dans le cadre d'un assistanat d’enseignement pour un cours du Master en Systèmes d'Information, j’ai créé des Jupyter Notebooks interactifs pour l'implémentation des méthodes d'exploration de données et des algorithmes d'apprentissage automatique."
 
 
