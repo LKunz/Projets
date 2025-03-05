@@ -4,7 +4,7 @@
 - **[Cours d'introduction à l'économie (fil rouge : durabilité)](https://lienversPDF.com)** – Supports de cours et exercices d'un cours d'introduction à l'économie avec le développement durable comme fil rouge. Niveau : discipline fondamentale.  
 - **[Exercices et études de cas en droit suisse](https://github.com/LKunz/Projets/tree/main/Droit)** - Mise en pratique du droit à travers des analyses et situations concrètes.  
 
-### Σ **Mathématiques**  
+### 🧮 **Mathématiques**  
 - **[Chaines de Markov](https://github.com/LKunz/Projets/tree/main/Math%C3%A9matiques)** – Divers codes permettant d'illustrer le fonctionnement des chaînes de Markov. 
 
 ### 📈 **Science des données**  
