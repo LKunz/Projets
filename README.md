@@ -18,4 +18,4 @@
 
 ### 🔗 Me contacter  
 📧 Email : [kunz.luc@protonmail.com](mailto:kunz.luc@protonmail.com)  
-🌐 LinkedIn : [Luc Kunz](https://www.linkedin.com/in/luc-kunz)  
+🌐 LinkedIn : [Luc Kunz](https://www.linkedin.com/in/luc-kunz/)  
