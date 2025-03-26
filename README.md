@@ -2,7 +2,7 @@
 
 ### 🏛️ **Économie & Droit**  
 - **[Cours d'introduction à l'économie (fil rouge : durabilité)](https://github.com/LKunz/Projets/blob/main/%C3%89conomie/IntroEco1M.pdf)** – Supports de cours et exercices d'un cours d'introduction à l'économie avec le développement durable comme fil rouge. Niveau : discipline fondamentale.  
-- **[Exercices et études de cas en droit suisse](https://github.com/LKunz/Projets/tree/main/Droit)** - Mise en pratique du droit à travers des analyses et situations concrètes.  
+- [**Ressources en droit suisse**](https://github.com/LKunz/Projets/tree/main/Droit) – Slides, exercices et études de cas, notamment sur le droit pénal et le fonctionnement de la Confédération.  
 
 ### 🧮 **Mathématiques**  
 - **[Chaines de Markov](https://github.com/LKunz/Projets/tree/main/Math%C3%A9matiques)** – Divers codes permettant d'illustrer le fonctionnement des chaînes de Markov. 
