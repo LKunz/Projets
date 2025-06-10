@@ -1,7 +1,7 @@
 ###### Bienvenue sur ma page ! Vous y découvrirez une sélection de mes projets, notamment en enseignement. Bonne exploration !
 
 ### 🏛️ **Économie & Droit**  
-- **[Cours d'introduction à l'économie (fil rouge : durabilité)](https://github.com/LKunz/Projets/blob/main/%C3%89conomie/IntroEco1M.pdf)** – Supports de cours et exercices d'un cours d'introduction à l'économie avec le développement durable comme fil rouge. Niveau : discipline fondamentale.  
+- **[Cours d'introduction à l'économie (fil rouge : durabilité)](https://github.com/LKunz/Projets/blob/main/%C3%89conomie/IntroEconomieDurabilit%C3%A9.pdf)** – Supports de cours et exercices d'un cours d'introduction à l'économie avec le développement durable comme fil rouge. Niveau : discipline fondamentale.  
 - [**Ressources en droit suisse**](https://github.com/LKunz/Projets/tree/main/Droit) – Slides, exercices et études de cas, notamment sur le droit pénal et le fonctionnement de la Confédération.  
 
 ### 🧮 **Mathématiques**  
